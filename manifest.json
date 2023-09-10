@@ -1,0 +1,11 @@
+{
+  "name": "px to rem IAN converter",
+  "version": "1.0.0",
+  "description": "convert px to rem according to impact africa network scale of 1.33",
+  "manifest_version": 3,
+  "author": "Vitalis",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "PX to REM"
+  }
+}
